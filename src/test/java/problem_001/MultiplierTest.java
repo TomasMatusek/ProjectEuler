@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 class MultiplierTest {
 
     @Test
-    void sumOfMultipliers2_() {
+    void sumOfMultipliers_3or5Limit1000_return233168() {
         Assertions.assertEquals(233168, Multiplier.getSumOfMultipliers(3,5,1000));
     }
 
