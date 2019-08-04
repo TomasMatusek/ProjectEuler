@@ -1,2 +1,2 @@
 # ProjectEuler
-Problems solved by myself from https://projecteuler.net
+Solved problems from https://projecteuler.net
