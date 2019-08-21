@@ -1,34 +1,41 @@
 package problem_004;
 
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class LargestPalindrome {
 
     public static int getLargestPalindrome(int n) {
-        int numberOne = LargestPalindrome.getLargestNumber(n);
-        int numberTwo = LargestPalindrome.getLargestNumber(n);
+        List<Integer> palindromes = getPalindromesOfNDigitNumber(n);
+        Collections.sort(palindromes);
+        return palindromes.size() > 0 ? palindromes.get(palindromes.size() - 1) : 0;
+    }
 
-        boolean decreaseFirstNumber = true;
+    public static List<Integer> getPalindromesOfNDigitNumber(int n) {
+        List<Integer> palindromes = new ArrayList<>();
+        int largestNDigitNumber = LargestPalindrome.getLargestNumber(n);
+        int numberOne = largestNDigitNumber;
+        int numberTwo = largestNDigitNumber;
+
         while (true) {
             int candidate = numberOne * numberTwo;
 
-            System.out.println(String.format("numberOne: %s, numberTwo: %s, candidate: %s, isPalindrome: %s", numberOne, numberTwo, candidate, isPalindrome(candidate)));
-
-            if (isPalindrome(candidate)) {
-                return candidate;
+            if (isPalindrome(candidate) && ! palindromes.contains(candidate)) {
+                palindromes.add(candidate);
             }
 
-            if (decreaseFirstNumber) {
-                decreaseFirstNumber = false;
-                numberOne--;
-            } else {
-                decreaseFirstNumber = true;
+            numberOne--;
+
+            if (numberOne == 0) {
+                numberOne = largestNDigitNumber;
                 numberTwo--;
             }
 
-            if (candidate == 0)
-                return 0;
+            if (numberTwo == 0) {
+                Collections.sort(palindromes);
+                return palindromes;
+            }
         }
     }
 
