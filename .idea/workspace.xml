@@ -20,23 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c3787be-d32d-4e44-aef0-38daea301a28" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projecteuler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/projecteuler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/projecteuler.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/problem_001/MultiplyService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/projecteuler.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/problem_001/MultiplyServiceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -77,95 +65,93 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="hackerrank.problem_003" />
       <recent name="hackerrank.problem_002" />
       <recent name="hackerrank.problem_001" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MinimumLossProblemTest">
-    <configuration name="MinimumLossProblemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PairProblemTest">
+    <configuration name="PairProblemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="projecteuler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.problem_002.*" />
+          <option name="PATTERN" value="hackerrank.problem_003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hackerrank.problem_002" />
-      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_002.MinimumLossProblemTest" />
+      <option name="PACKAGE_NAME" value="hackerrank.problem_003" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_003.PairProblemTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLossProblemTest.Sample_Test_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PairProblemTest.Sample_Test_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="projecteuler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.problem_002.*" />
+          <option name="PATTERN" value="hackerrank.problem_003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hackerrank.problem_002" />
-      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_002.MinimumLossProblemTest" />
+      <option name="PACKAGE_NAME" value="hackerrank.problem_003" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_003.PairProblemTest" />
+      <option name="METHOD_NAME" value="Sample_Test_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairProblemTest.Sample_Test_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="projecteuler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hackerrank.problem_003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hackerrank.problem_003" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_003.PairProblemTest" />
       <option name="METHOD_NAME" value="Sample_Test_2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLossProblemTest.Sample_Test_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PairProblemTest.Sample_Test_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="projecteuler" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hackerrank.problem_002.*" />
+          <option name="PATTERN" value="hackerrank.problem_003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="hackerrank.problem_002" />
-      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_002.MinimumLossProblemTest" />
+      <option name="PACKAGE_NAME" value="hackerrank.problem_003" />
+      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_003.PairProblemTest" />
       <option name="METHOD_NAME" value="Sample_Test_3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLossProblemTest.Sample_Test_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UtilsTest.When_FileProvided_Then_ListOfNumbersReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="projecteuler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.problem_002.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hackerrank.problem_002" />
-      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_002.MinimumLossProblemTest" />
-      <option name="METHOD_NAME" value="Sample_Test_4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumLossProblemTest.When_RevertMethodExecuted_Then_RightOrderReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="projecteuler" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hackerrank.problem_002.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="hackerrank.problem_002" />
-      <option name="MAIN_CLASS_NAME" value="hackerrank.problem_002.MinimumLossProblemTest" />
-      <option name="METHOD_NAME" value="When_RevertMethodExecuted_Then_RightOrderReturned" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UtilsTest" />
+      <option name="METHOD_NAME" value="When_FileProvided_Then_ListOfNumbersReturned" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MinimumLossProblemTest" />
-        <item itemvalue="JUnit.MinimumLossProblemTest.When_RevertMethodExecuted_Then_RightOrderReturned" />
-        <item itemvalue="JUnit.MinimumLossProblemTest.Sample_Test_4" />
-        <item itemvalue="JUnit.MinimumLossProblemTest.Sample_Test_3" />
-        <item itemvalue="JUnit.MinimumLossProblemTest.Sample_Test_2" />
+        <item itemvalue="JUnit.PairProblemTest" />
+        <item itemvalue="JUnit.PairProblemTest.Sample_Test_3" />
+        <item itemvalue="JUnit.PairProblemTest.Sample_Test_2" />
+        <item itemvalue="JUnit.PairProblemTest.Sample_Test_1" />
+        <item itemvalue="JUnit.UtilsTest.When_FileProvided_Then_ListOfNumbersReturned" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +226,12 @@
       <updated>1593430893387</updated>
       <workItem from="1593430894478" duration="7172000" />
       <workItem from="1593440893920" duration="244000" />
-      <workItem from="1593441157816" duration="4119000" />
+      <workItem from="1593441157816" duration="5315000" />
+      <workItem from="1593505633676" duration="3631000" />
+      <workItem from="1593511041783" duration="1751000" />
+      <workItem from="1593512939817" duration="133000" />
+      <workItem from="1593543853775" duration="725000" />
+      <workItem from="1593544685879" duration="873000" />
     </task>
     <servers />
   </component>
@@ -272,72 +263,109 @@
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
     <state x="1657" y="888" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.3840.2137@0.23.3840.2137" timestamp="1593431083462" />
-    <state x="898" y="482" key="#xdebugger.evaluate" timestamp="1593458937114">
+    <state x="1549" y="1024" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593507398861">
+      <screen x="0" y="23" width="3840" height="2137" />
+    </state>
+    <state x="1549" y="1024" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.3840.2137@0.23.3840.2137" timestamp="1593507398861" />
+    <state x="1710" y="964" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593507284613">
+      <screen x="0" y="23" width="3840" height="2137" />
+    </state>
+    <state x="1710" y="964" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.3840.2137@0.23.3840.2137" timestamp="1593507284613" />
+    <state x="644" y="635" width="737" height="615" key="#xdebugger.evaluate" timestamp="1593545340247">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state x="1683" y="788" key="#xdebugger.evaluate/0.0.3840.2160@0.0.3840.2160" timestamp="1593440334681" />
-    <state x="898" y="482" key="#xdebugger.evaluate/0.23.2048.1257@0.23.2048.1257" timestamp="1593458937114" />
-    <state x="1683" y="803" key="#xdebugger.evaluate/0.23.3840.2137@0.23.3840.2137" timestamp="1593437980412" />
+    <state x="644" y="635" width="737" height="615" key="#xdebugger.evaluate/0.23.2048.1257@0.23.2048.1257" timestamp="1593545340247" />
+    <state x="1423" y="853" width="1158" height="577" key="#xdebugger.evaluate/0.23.3840.2137@0.23.3840.2137" timestamp="1593508098669" />
     <state width="673" height="466" key="DebuggerActiveHint" timestamp="1593431895527">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
     <state width="673" height="466" key="DebuggerActiveHint/0.23.3840.2137@0.23.3840.2137" timestamp="1593431895527" />
-    <state width="2006" height="285" key="GridCell.Tab.0.bottom" timestamp="1593460089190">
+    <state width="2006" height="435" key="GridCell.Tab.0.bottom" timestamp="1593545159966">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="644" key="GridCell.Tab.0.bottom/0.0.3840.2160@0.0.3840.2160" timestamp="1593441508900" />
-    <state width="2006" height="285" key="GridCell.Tab.0.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1593460089190" />
-    <state width="3798" height="644" key="GridCell.Tab.0.bottom/0.23.3840.2137@0.23.3840.2137" timestamp="1593441560415" />
-    <state width="2006" height="285" key="GridCell.Tab.0.center" timestamp="1593460089189">
+    <state width="2006" height="435" key="GridCell.Tab.0.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1593545159966" />
+    <state width="2585" height="486" key="GridCell.Tab.0.bottom/0.23.3840.2137@0.23.3840.2137" timestamp="1593512924922" />
+    <state width="2006" height="435" key="GridCell.Tab.0.center" timestamp="1593545159965">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="644" key="GridCell.Tab.0.center/0.0.3840.2160@0.0.3840.2160" timestamp="1593441508899" />
-    <state width="2006" height="285" key="GridCell.Tab.0.center/0.23.2048.1257@0.23.2048.1257" timestamp="1593460089189" />
-    <state width="3798" height="644" key="GridCell.Tab.0.center/0.23.3840.2137@0.23.3840.2137" timestamp="1593441560414" />
-    <state width="2006" height="285" key="GridCell.Tab.0.left" timestamp="1593460089189">
+    <state width="2006" height="435" key="GridCell.Tab.0.center/0.23.2048.1257@0.23.2048.1257" timestamp="1593545159965" />
+    <state width="2585" height="486" key="GridCell.Tab.0.center/0.23.3840.2137@0.23.3840.2137" timestamp="1593512924921" />
+    <state width="2006" height="435" key="GridCell.Tab.0.left" timestamp="1593545159964">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="644" key="GridCell.Tab.0.left/0.0.3840.2160@0.0.3840.2160" timestamp="1593441508898" />
-    <state width="2006" height="285" key="GridCell.Tab.0.left/0.23.2048.1257@0.23.2048.1257" timestamp="1593460089189" />
-    <state width="3798" height="644" key="GridCell.Tab.0.left/0.23.3840.2137@0.23.3840.2137" timestamp="1593441560414" />
-    <state width="2006" height="285" key="GridCell.Tab.0.right" timestamp="1593460089189">
+    <state width="2006" height="435" key="GridCell.Tab.0.left/0.23.2048.1257@0.23.2048.1257" timestamp="1593545159964" />
+    <state width="2585" height="486" key="GridCell.Tab.0.left/0.23.3840.2137@0.23.3840.2137" timestamp="1593512924920" />
+    <state width="2006" height="435" key="GridCell.Tab.0.right" timestamp="1593545159965">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="644" key="GridCell.Tab.0.right/0.0.3840.2160@0.0.3840.2160" timestamp="1593441508899" />
-    <state width="2006" height="285" key="GridCell.Tab.0.right/0.23.2048.1257@0.23.2048.1257" timestamp="1593460089189" />
-    <state width="3798" height="644" key="GridCell.Tab.0.right/0.23.3840.2137@0.23.3840.2137" timestamp="1593441560415" />
-    <state width="2006" height="285" key="GridCell.Tab.1.bottom" timestamp="1593460088990">
+    <state width="2006" height="435" key="GridCell.Tab.0.right/0.23.2048.1257@0.23.2048.1257" timestamp="1593545159965" />
+    <state width="2585" height="486" key="GridCell.Tab.0.right/0.23.3840.2137@0.23.3840.2137" timestamp="1593512924921" />
+    <state width="2006" height="435" key="GridCell.Tab.1.bottom" timestamp="1593545160529">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="311" key="GridCell.Tab.1.bottom/0.0.3840.2160@0.0.3840.2160" timestamp="1593440873101" />
-    <state width="2006" height="285" key="GridCell.Tab.1.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1593460088990" />
-    <state width="3798" height="790" key="GridCell.Tab.1.bottom/0.23.3840.2137@0.23.3840.2137" timestamp="1593438224591" />
-    <state width="2006" height="285" key="GridCell.Tab.1.center" timestamp="1593460088990">
+    <state width="2006" height="435" key="GridCell.Tab.1.bottom/0.23.2048.1257@0.23.2048.1257" timestamp="1593545160529" />
+    <state width="2585" height="597" key="GridCell.Tab.1.bottom/0.23.3840.2137@0.23.3840.2137" timestamp="1593511021936" />
+    <state width="2006" height="435" key="GridCell.Tab.1.center" timestamp="1593545160528">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="311" key="GridCell.Tab.1.center/0.0.3840.2160@0.0.3840.2160" timestamp="1593440873100" />
-    <state width="2006" height="285" key="GridCell.Tab.1.center/0.23.2048.1257@0.23.2048.1257" timestamp="1593460088990" />
-    <state width="3798" height="790" key="GridCell.Tab.1.center/0.23.3840.2137@0.23.3840.2137" timestamp="1593438224591" />
-    <state width="2006" height="285" key="GridCell.Tab.1.left" timestamp="1593460088989">
+    <state width="2006" height="435" key="GridCell.Tab.1.center/0.23.2048.1257@0.23.2048.1257" timestamp="1593545160528" />
+    <state width="2585" height="597" key="GridCell.Tab.1.center/0.23.3840.2137@0.23.3840.2137" timestamp="1593511021935" />
+    <state width="2006" height="435" key="GridCell.Tab.1.left" timestamp="1593545160528">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="311" key="GridCell.Tab.1.left/0.0.3840.2160@0.0.3840.2160" timestamp="1593440873100" />
-    <state width="2006" height="285" key="GridCell.Tab.1.left/0.23.2048.1257@0.23.2048.1257" timestamp="1593460088989" />
-    <state width="3798" height="790" key="GridCell.Tab.1.left/0.23.3840.2137@0.23.3840.2137" timestamp="1593438224591" />
-    <state width="2006" height="285" key="GridCell.Tab.1.right" timestamp="1593460088990">
+    <state width="2006" height="435" key="GridCell.Tab.1.left/0.23.2048.1257@0.23.2048.1257" timestamp="1593545160528" />
+    <state width="2585" height="597" key="GridCell.Tab.1.left/0.23.3840.2137@0.23.3840.2137" timestamp="1593511021935" />
+    <state width="2006" height="435" key="GridCell.Tab.1.right" timestamp="1593545160529">
       <screen x="0" y="23" width="2048" height="1257" />
     </state>
     <state width="3798" height="311" key="GridCell.Tab.1.right/0.0.3840.2160@0.0.3840.2160" timestamp="1593440873101" />
-    <state width="2006" height="285" key="GridCell.Tab.1.right/0.23.2048.1257@0.23.2048.1257" timestamp="1593460088990" />
-    <state width="3798" height="790" key="GridCell.Tab.1.right/0.23.3840.2137@0.23.3840.2137" timestamp="1593438224591" />
-    <state x="1230" y="639" key="SettingsEditor" timestamp="1593441536737">
+    <state width="2006" height="435" key="GridCell.Tab.1.right/0.23.2048.1257@0.23.2048.1257" timestamp="1593545160529" />
+    <state width="2585" height="597" key="GridCell.Tab.1.right/0.23.3840.2137@0.23.3840.2137" timestamp="1593511021935" />
+    <state x="1230" y="639" key="SettingsEditor" timestamp="1593512612409">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
     <state x="1230" y="623" key="SettingsEditor/0.0.3840.2160@0.0.3840.2160" timestamp="1593441505620" />
-    <state x="1230" y="639" key="SettingsEditor/0.23.3840.2137@0.23.3840.2137" timestamp="1593441536737" />
-    <state x="1699" y="922" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593434852368">
+    <state x="1230" y="639" key="SettingsEditor/0.23.3840.2137@0.23.3840.2137" timestamp="1593512612409" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1593545351091">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.2048.1257@0.23.2048.1257" timestamp="1593545351091" />
+    <state width="1313" height="831" key="XDebugger.FullValuePopup" timestamp="1593506922941">
       <screen x="0" y="23" width="3840" height="2137" />
     </state>
-    <state x="1699" y="922" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.3840.2137@0.23.3840.2137" timestamp="1593434852368" />
+    <state width="1313" height="831" key="XDebugger.FullValuePopup/0.23.3840.2137@0.23.3840.2137" timestamp="1593506922941" />
+    <state x="1699" y="922" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1593498126192">
+      <screen x="0" y="23" width="3840" height="2137" />
+    </state>
+    <state x="1699" y="922" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.3840.2137@0.23.3840.2137" timestamp="1593498126192" />
+    <state x="845" y="389" width="358" height="398" key="search.everywhere.popup" timestamp="1593545042019">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="845" y="389" width="358" height="398" key="search.everywhere.popup/0.23.2048.1257@0.23.2048.1257" timestamp="1593545042019" />
+    <state x="1584" y="646" width="670" height="676" key="search.everywhere.popup/0.23.3840.2137@0.23.3840.2137" timestamp="1593506258952" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hackerrank/problem_002/MinimumLossProblem.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/hackerrank/problem_003/PairProblem.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
