@@ -1,4 +1,4 @@
-package problem_001;
+package projecteuler.problem_001;
 
 class Multiplier {
     static int getSumOfMultipliers(int multiplier, int multiplier2, int limit) {

@@ -1,4 +1,4 @@
-package problem_004;
+package projecteuler.problem_004;
 
 import java.util.*;
 import java.util.stream.Collectors;

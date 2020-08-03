@@ -1,4 +1,4 @@
-package problem_003;
+package projecteuler.problem_003;
 
 import java.util.ArrayList;
 import java.util.List;

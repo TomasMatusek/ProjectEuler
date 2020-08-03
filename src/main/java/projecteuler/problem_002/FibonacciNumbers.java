@@ -1,4 +1,4 @@
-package problem_002;
+package projecteuler.problem_002;
 
 public class FibonacciNumbers {
     public static int getSumOfEvenFibonnaciNumbers(int limit) {

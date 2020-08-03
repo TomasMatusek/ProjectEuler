@@ -1,4 +1,4 @@
-package problem_002;
+package projecteuler.problem_002;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
