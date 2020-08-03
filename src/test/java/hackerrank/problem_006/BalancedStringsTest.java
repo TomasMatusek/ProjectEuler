@@ -46,4 +46,9 @@ class BalancedStringsTest {
     public void testCase8() {
         assertTrue(BalancedStrings.isParenthesesStringBalanced(""));
     }
+
+    @Test
+    public void testCase9() {
+        assertTrue(BalancedStrings.isParenthesesStringBalanced("({})"));
+    }
 }
