@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class CollectionsProblem {
+public class Collections_Problem {
 
     public static void test() {
         int[] arr = new int[] {1,2,3,4,5};

@@ -2,7 +2,7 @@ package practice;
 
 import java.util.ArrayDeque;
 
-public class DequeLearn {
+public class Collections_Deque {
 
     public static void learn() {
 

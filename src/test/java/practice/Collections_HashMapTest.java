@@ -4,10 +4,10 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class DequeLearnTest {
+class Collections_HashMapTest {
 
     @Test
-    void learn() {
-        DequeLearn.learn();
+    void test1() {
+        Collections_HashMap.test();
     }
 }
