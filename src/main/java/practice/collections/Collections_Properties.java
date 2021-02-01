@@ -1,4 +1,4 @@
-package practice;
+package practice.collections;
 
 import java.io.FileReader;
 import java.io.FileWriter;

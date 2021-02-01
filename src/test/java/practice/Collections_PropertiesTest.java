@@ -2,10 +2,9 @@ package practice;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import practice.collections.Collections_Properties;
 
 import java.util.Properties;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class Collections_PropertiesTest {
 

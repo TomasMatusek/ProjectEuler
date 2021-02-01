@@ -1,8 +1,7 @@
 package practice;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
+import practice.collections.Collections_SortingComparing;
 
 class Collections_SortingComparingTest {
 

@@ -1,4 +1,4 @@
-package practice;
+package practice.collections;
 
 import java.net.ServerSocket;
 
