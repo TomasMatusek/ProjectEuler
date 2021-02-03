@@ -3,12 +3,18 @@
 ## Threads
 
 Executor -> Threadpool executor fixed, scheduled https://www.baeldung.com/thread-pool-java-and-guava
+
 Executors.newSingleThreadExecutor();
+
 Executors.newFixedThreadExecutor(10);
 
 Callable vs. Runnable vs. CompletableFuture
 
-Lock interface
+Lock interface (synchronize)
+
+Volatile, AtomicInteger, Synchronized
+
+Thread cache, main memory
 
 ## Collections
 

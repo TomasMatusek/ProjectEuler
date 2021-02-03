@@ -23,8 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c3787be-d32d-4e44-aef0-38daea301a28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/README_SQL.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/README_SQL.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/README_JAVA.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/README_JAVA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/README_JVM.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/README_JVM.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,17 +113,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -291,7 +282,9 @@
       <workItem from="1601490064231" duration="756000" />
       <workItem from="1604438540677" duration="2081000" />
       <workItem from="1612166035895" duration="4519000" />
-      <workItem from="1612202709681" duration="651000" />
+      <workItem from="1612202709681" duration="2375000" />
+      <workItem from="1612293340526" duration="1316000" />
+      <workItem from="1612340096634" duration="1052000" />
     </task>
     <servers />
   </component>
